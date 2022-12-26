@@ -3,6 +3,7 @@ import Navbar from '../Components/Navbar';
 
 import Footer from '../Components/Footer';
 import Heroimg2 from '../Components/Heroimg2';
+
 import Work from '../Components/Work';
 
 
@@ -15,6 +16,7 @@ const Project = () => {
       <Heroimg2 heading="PROJECTS" 
       text="Some of my personal Projects"/>
       <Work/>
+      
       <Footer/>
     </div>
   )

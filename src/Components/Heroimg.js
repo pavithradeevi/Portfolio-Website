@@ -12,13 +12,13 @@ const Heroimg = () => {
 
         </div>
         <div className="content">
-            <p>Hai, I am a </p>
+            <p>Hai, I am </p>
             <h4>PAVITHRA</h4>
             <h1>Full Stack Developer</h1>
             <div>
                 <Link to="/project" className="btn">Projects</Link>
                 {/* <Link to="/contact" className="btn btn-light">Contact</Link> */}
-                <a href="https://drive.google.com/file/d/1TqWU3x15OfM12Q4mLt_Ve_mgsxkItews/view?usp=share_link">
+                <a href="https://docs.google.com/document/d/1FMoOUhwQQ2udjLUfyZMI3ikmD2KwAJwgQsV7vwuicdQ/edit?usp=sharing">
                 <button className="btn">Download CV</button>
                 </a>
             </div>

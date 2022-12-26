@@ -21,7 +21,7 @@ const Detail = () => {
           Email : <span>pavithradeevi@gmail.com</span>
         </p>
         <p>Github : 
-          <a href="https://github.com/pavithradeevi?tab=repositories"><span style={{color: '#f64c08'}}> pavithradeevi</span> 
+          <a href="https://github.com/pavithradeevi"><span style={{color: 'skyblue'}}> pavithradeevi</span> 
           </a>
           
         </p>
