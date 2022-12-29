@@ -21,7 +21,12 @@ const Detail = () => {
           Email : <span>pavithradeevi@gmail.com</span>
         </p>
         <p>Github : 
-          <a href="https://github.com/pavithradeevi"><span style={{color: 'skyblue'}}> pavithradeevi</span> 
+          <a href="https://github.com/pavithradeevi" target="_blank"><span style={{color: 'skyblue'}}> pavithradeevi</span> 
+          </a>
+          
+        </p>
+        <p>Biodata : 
+          <a href="https://docs.google.com/document/d/1FMoOUhwQQ2udjLUfyZMI3ikmD2KwAJwgQsV7vwuicdQ/edit?usp=sharing" target="_blank"><span style={{color: 'skyblue'}}> Resume</span> 
           </a>
           
         </p>

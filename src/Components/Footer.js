@@ -1,7 +1,7 @@
 import "./Footer.css";
 
 import React from 'react';
-import {FaHome,FaPhone,FaMailBulk, FaFacebook, FaTwitter, FaLinkedin} from "react-icons/fa"
+import {FaHome,FaPhone,FaMailBulk} from "react-icons/fa"
 
 const Footer = () => {
   return (
@@ -11,7 +11,8 @@ const Footer = () => {
                 <div className="location">
                     <FaHome size={20} style={{color:"whitesmoke",marginRight:"2rem"}}/>
                     <div>
-                        <p>106B,Aswath Nagar,Hebbal</p>
+                        <p>106B,Aswath Nagar,</p>
+                        <p>Near Ramaiah College Road,</p>
                         <p>Bangalore-560094</p>
                     </div>
 
@@ -38,12 +39,12 @@ const Footer = () => {
             <div className="right">
                 <h4>About</h4>
                 <p>Passionate Application Engineer,Skilled in Javascript,HTML & CSS,Python and ReactJs.</p>
-                <div className="social">
+                {/* <div className="social">
                 <FaFacebook size={30} style={{color:"whitesmoke",marginRight:"1rem"}}/>
                 <FaTwitter size={30} style={{color:"whitesmoke",marginRight:"1rem"}}/>
                 <FaLinkedin size={30} style={{color:"whitesmoke",marginRight:"1rem"}}/>
 
-                </div>
+                </div> */}
 
             </div>
 

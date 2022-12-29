@@ -17,8 +17,9 @@ const Heroimg = () => {
             <h1>Full Stack Developer</h1>
             <div>
                 <Link to="/project" className="btn">Projects</Link>
+                {/* <Link><button className="btn">CV</button></Link> */}
                 {/* <Link to="/contact" className="btn btn-light">Contact</Link> */}
-                <a href="https://docs.google.com/document/d/1FMoOUhwQQ2udjLUfyZMI3ikmD2KwAJwgQsV7vwuicdQ/edit?usp=sharing">
+                <a href="https://docs.google.com/document/d/1FMoOUhwQQ2udjLUfyZMI3ikmD2KwAJwgQsV7vwuicdQ/edit?usp=sharing" target="_blank">
                 <button className="btn">Download CV</button>
                 </a>
             </div>
