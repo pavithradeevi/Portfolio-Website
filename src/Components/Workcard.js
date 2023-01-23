@@ -24,15 +24,23 @@ const Workcard = (props) => {
 
                         {/* <NavLink to={props.view} target="_blank" className="btn">View</NavLink>  */}
                         <a
-                          href={props.view}
+                          href={props.frontend}
                           target="_blank"
                           rel="noreferrer"
                           className="btn"
                         >
-                          Source
+                          Frontend
                         </a>
                         <a
-                          href={props.source}
+                          href={props.backend}
+                          target="_blank"
+                          rel="noreferrer"
+                          className="btn"
+                        >
+                          Backend
+                        </a>
+                        <a
+                          href={props.view}
                           target="_blank"
                           rel="noreferrer"
                           className="btn"
