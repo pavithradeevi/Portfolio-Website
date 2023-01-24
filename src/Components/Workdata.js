@@ -42,8 +42,8 @@ const ProjectcardData=[
         imgsrc:python,
         title:"Face Recognition System",
         text:"An URL shortener is a website that reduces the length of your URL (Uniform Resource Locator). The idea is to minimize the web page address into something that's easier to remember and track.",
-        view:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
-        frontend:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
+        view:"https://dazzling-dasik-a8211d.netlify.app/",
+        frontend:"https://github.com/pavithradeevi/Face-Recognition---Frontend",
         backend:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
     },
 
