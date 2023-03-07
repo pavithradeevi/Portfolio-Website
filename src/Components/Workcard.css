@@ -12,6 +12,12 @@
     padding-bottom: 5rem;
 }
 
+.image{
+    width: 400px;
+    height: 300px;
+   
+}
+
 .project-card{
     background: black;
     padding:1.2rem 1rem;
@@ -37,10 +43,12 @@
     display: flex;
     justify-content: space-between;
     padding: 0.5rem 0;
+   
 }
 
 .pro-btns .btn{
     padding: 0.5rem 1rem;
+    
 }
 
 @media screen and (max-width:740px) {
