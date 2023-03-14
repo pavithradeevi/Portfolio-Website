@@ -16,8 +16,8 @@ const Work = () => {
                     title={val.title}
                     text={val.text}
                     view={val.view}
-                    frontend={val.frontend}
-                    backend={val.backend}
+                    source={val.source}
+                    software={val.software}
                     />
                 )
             })}

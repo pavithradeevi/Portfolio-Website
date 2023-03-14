@@ -32,6 +32,11 @@
     padding:1rem 0;
 }
 
+.project-software{
+    color:rgb(224, 11, 11);
+    padding:1rem 0;
+}
+
 .pro-details p{
     padding-bottom: 1rem;
     font-size: 1.1rem;
@@ -48,6 +53,7 @@
 
 .pro-btns .btn{
     padding: 0.5rem 1rem;
+    align-content: center;
     
 }
 

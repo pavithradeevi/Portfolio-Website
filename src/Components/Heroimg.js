@@ -22,6 +22,9 @@ const Heroimg = () => {
                 <a href="https://docs.google.com/document/d/1FMoOUhwQQ2udjLUfyZMI3ikmD2KwAJwgQsV7vwuicdQ/export?format=pdf" target="_blank">
                 <button className="btn">Download CV</button>
                 </a>
+                <a href="https://github.com/pavithradeevi" target="_blank">
+                <button className="btn">GitHub</button>
+                </a>
             </div>
 
         </div>

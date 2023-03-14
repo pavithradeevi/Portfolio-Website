@@ -23,6 +23,20 @@ const Skillset = () => {
         </div>
 
         <div className="skillContainer__skillSet">
+          <h4>HTML/CSS</h4>
+          <div className="skillContainer__slider skillContainer__slider7">
+          <LinearProgress variant="determinate" value={70} />
+          </div>
+        </div>
+
+        <div className="skillContainer__skillSet">
+          <h4>MongoDB</h4>
+          <div className="skillContainer__slider skillContainer__slider8">
+          <LinearProgress variant="determinate" value={60} />
+          </div>
+        </div>
+
+        <div className="skillContainer__skillSet">
           <h4>NodeJs</h4>
           <div className="skillContainer__slider skillContainer__slider2">
           <LinearProgress variant="determinate" value={40} />
@@ -32,7 +46,7 @@ const Skillset = () => {
         <div className="skillContainer__skillSet">
           <h4>SQL</h4>
           <div className="skillContainer__slider skillContainer__slider3">
-          <LinearProgress variant="determinate" value={80} />
+          <LinearProgress variant="determinate" value={65} />
           </div>
         </div>
 

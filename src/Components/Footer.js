@@ -1,7 +1,8 @@
 import "./Footer.css";
 
 import React from 'react';
-import {FaHome,FaPhone,FaMailBulk} from "react-icons/fa"
+import {FaHome,FaPhone,FaMailBulk,FaGithub} from "react-icons/fa"
+
 
 const Footer = () => {
   return (
@@ -32,6 +33,14 @@ const Footer = () => {
                  pavithradeevi@gmail.com
                     </h4>
 
+
+
+                </div>
+                <div><h4>
+                <FaGithub size={20} style={{color:"whitesmoke",marginRight:"2rem"}}/>
+                <a href="https://github.com/pavithradeevi" target="_blank">
+                Pavithra Kamalakkannan
+                </a></h4>
                 </div>
                 
 

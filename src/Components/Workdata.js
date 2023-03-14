@@ -8,43 +8,48 @@ import python from "../assets/python.jpg";
 
 const ProjectcardData=[
     {
-        imgsrc:"https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/5fe0c50f68984a6370b85e64_1.PNG",
+        imgsrc:"https://images-platform.99static.com//ho7seGpM432Mtu2oc9qnsax93gQ=/0x0:1540x1540/fit-in/500x500/99designs-contests-attachments/118/118889/attachment_118889619",
         title:"Chatting-Website",
-        text:"Chatting app allows you to communicate with your customers in web chat rooms. It enables you to send and receive messages. Chatting apps make it easier, simpler, and faster to connect with everyone and it is also easy to use.",
+        software:"Reactjs,Nodejs and Socket.Io",
+        text:"Chatting app allows you to communicate with your customers in web chat rooms. It enables you to send and receive messages.",
         view:"https://chatting-website.netlify.app/",
-        frontend:"https://github.com/pavithradeevi/chatting-app-frontend",
-        backend:"https://github.com/pavithradeevi/chatting-app--backend",
+        source:"https://github.com/pavithradeevi/Chat-App",
+        
+       
     },
     {
-        imgsrc:BillingApp,
-        title:"Billing App - Frontend",
-        text:"Billing apps or invoicing software offer a myriad of features that make your cumbersome and unpaid invoicing task easy and quick. Right from the creation of tasks, invoice management, accounting, and team management, billing apps can make the job easy for you by automating everything.",
+        imgsrc:"https://themewagon.com/wp-content/uploads/2018/12/royalestate-1.jpg",
+        title:"Land Booking App",
+        software:"Reactjs,Nodejs and MongoDB",
+        text:"Our software covers all real estate sectors such as Village house,Mountain House and many more.",
         view:"https://billingwebsite.netlify.app/",
-        frontend:"https://github.com/pavithradeevi/billingapp-frontend",
+        source:"https://github.com/pavithradeevi/Real-Estate",
     },
     {
         imgsrc:YouTube,
         title:"YouTube-Clone",
-        text:"YouTube Clone is an efficacious video-sharing solution that aids you in launching your video streaming software that has the power to rival YouTube itself. The app allows admin to add an unlimited collection of videos to keep the users hooked to the app",
+        software:"HTML,CSS and API",
+        text:"YouTube Clone is an video-sharing solution that aids you in launching your video streaming software that has the power to rival YouTube itself.",
         view:"https://youtubeclone18.netlify.app/",
-        frontend:"https://github.com/pavithradeevi/YouTube",
-        backend:"https://github.com/pavithradeevi/YouTube",
+        source:"https://github.com/pavithradeevi/YouTube",
+        
     },
     {
-        imgsrc:"https://3.imimg.com/data3/VK/PM/MY-11650801/hotel-booking-500x500.jpg",
-        title:"Booking App",
-        text:"A booking app allows businesses to reach more clients and process more orders. Timely notifications. Minimize downtime by automatically informing your customers and employees about upcoming appointments, cancellations, and rescheduling. Convenient payment options.",
+        imgsrc:"https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2020-07/loaf.jpg",
+        title:"Ecommerce Website",
+        software:"Reactjs,Nodejs and MongoDB",
+        text:"Ecommerce or electronic commerce is the trading of goods and services on the internet. It is your bustling city center or brick-and-mortar shop translated into zeroes and ones on the internet superhighway.",
         view:"https://vocal-dodol-df5848.netlify.app/",
-        frontend:"https://github.com/pavithradeevi/Booking-app-frontend",
-        backend:"https://github.com/pavithradeevi/Booking-app-Backend",
+        source:"https://github.com/pavithradeevi/Booking-app-frontend",
+        
     },
     {
         imgsrc:python,
         title:"Face Recognition System",
-        text:"It works by identifying and measuring facial features in an image. Facial recognition can identify human faces in images or videos, determine if the face in two images belongs to the same person, or search for a face among a large collection of existing images.",
+        software:"Python,Machine Learning and SQL",
+        text:"Facial recognition can identify human faces in images or videos, determine if the face in two images belongs to the same person, or search for a face among a large collection of existing images.",
         view:"https://dazzling-dasik-a8211d.netlify.app/",
-        frontend:"https://github.com/pavithradeevi/Face-Recognition---Frontend",
-        backend:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
+        source:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
     },
 
 ];
