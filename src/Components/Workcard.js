@@ -13,7 +13,7 @@ const Workcard = (props) => {
                 
                 <div className="pro-details">
                     <p>{props.text}</p>
-                    <h3 className="project-software">Software: {props.software}</h3>
+                    <h3 className="project-software">Domain: {props.software}</h3>
                     
                     <div className="pro-btns">
                    

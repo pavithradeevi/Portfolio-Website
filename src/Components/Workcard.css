@@ -12,6 +12,12 @@
     padding-bottom: 5rem;
 }
 
+.user-details{
+    text-align: center;
+    color: red;
+    
+}
+
 .image{
     width: 400px;
     height: 300px;

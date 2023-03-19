@@ -51,6 +51,14 @@ const ProjectcardData=[
         view:"https://dazzling-dasik-a8211d.netlify.app/",
         source:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
     },
+    {
+        imgsrc:"https://i.pinimg.com/originals/a2/6e/42/a26e42330d1517409842ff321f1fa906.png",
+        title:"Food Order Website",
+        software:"ReactJS,NodeJS,MongoDB,Redux and JWT",
+        text:"An online food ordering system generally has two components – a website or app that allows customers to view the menu and place an order, and an admin interface that enables the restaurant to receive and fulfil customer orders.",
+        view:"https://dazzling-dasik-a8211d.netlify.app/",
+        source:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
+    },
 
 ];
 
