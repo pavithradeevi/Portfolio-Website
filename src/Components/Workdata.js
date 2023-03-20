@@ -40,7 +40,7 @@ const ProjectcardData=[
         software:"Reactjs,Nodejs and MongoDB",
         text:"Ecommerce or electronic commerce is the trading of goods and services on the internet. It is your bustling city center or brick-and-mortar shop translated into zeroes and ones on the internet superhighway.",
         view:"https://vocal-dodol-df5848.netlify.app/",
-        source:"https://github.com/pavithradeevi/Booking-app-frontend",
+        source:"https://github.com/pavithradeevi/Ecommerce-website",
         
     },
     {
@@ -57,7 +57,15 @@ const ProjectcardData=[
         software:"ReactJS,NodeJS,MongoDB,Redux and JWT",
         text:"An online food ordering system generally has two components – a website or app that allows customers to view the menu and place an order, and an admin interface that enables the restaurant to receive and fulfil customer orders.",
         view:"https://dazzling-dasik-a8211d.netlify.app/",
-        source:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
+        source:"https://github.com/pavithradeevi/Food-Order-Website",
+    },
+    {
+        imgsrc:"https://images04.nicepage.com/feature/461183/website-blog.jpg",
+        title:"Blog",
+        software:"ReactJS,NodeJS,MongoDB",
+        text:"Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page.",
+        view:"https://dazzling-dasik-a8211d.netlify.app/",
+        source:"https://github.com/pavithradeevi/Blog",
     },
 
 ];
