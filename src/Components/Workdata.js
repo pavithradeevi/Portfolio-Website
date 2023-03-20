@@ -12,7 +12,7 @@ const ProjectcardData=[
         title:"Chatting-Website",
         software:"Reactjs,Nodejs and Socket.Io",
         text:"Chatting app allows you to communicate with your customers in web chat rooms. It enables you to send and receive messages.",
-        view:"https://chatting-website.netlify.app/",
+        view:"https://chatwebsite1.netlify.app/",
         source:"https://github.com/pavithradeevi/Chat-App",
         
        
@@ -22,7 +22,7 @@ const ProjectcardData=[
         title:"Land Booking App",
         software:"Reactjs,Nodejs and MongoDB",
         text:"Our software covers all real estate sectors such as Village house,Mountain House and many more.",
-        view:"https://billingwebsite.netlify.app/",
+        view:"https://realestatebook.netlify.app/signin",
         source:"https://github.com/pavithradeevi/Real-Estate",
     },
     {
@@ -39,7 +39,7 @@ const ProjectcardData=[
         title:"Ecommerce Website",
         software:"Reactjs,Nodejs and MongoDB",
         text:"Ecommerce or electronic commerce is the trading of goods and services on the internet. It is your bustling city center or brick-and-mortar shop translated into zeroes and ones on the internet superhighway.",
-        view:"https://vocal-dodol-df5848.netlify.app/",
+        view:"https://relaxed-gelato-15383f.netlify.app/",
         source:"https://github.com/pavithradeevi/Ecommerce-website",
         
     },
@@ -56,7 +56,7 @@ const ProjectcardData=[
         title:"Food Order Website",
         software:"ReactJS,NodeJS,MongoDB,Redux and JWT",
         text:"An online food ordering system generally has two components – a website or app that allows customers to view the menu and place an order, and an admin interface that enables the restaurant to receive and fulfil customer orders.",
-        view:"https://dazzling-dasik-a8211d.netlify.app/",
+        view:"https://lighthearted-pixie-d2b22c.netlify.app/",
         source:"https://github.com/pavithradeevi/Food-Order-Website",
     },
     {
