@@ -19,7 +19,7 @@ const Heroimg = () => {
                 <Link to="/project" className="btn">Projects</Link>
                 {/* <Link><button className="btn">CV</button></Link> */}
                 {/* <Link to="/contact" className="btn btn-light">Contact</Link> */}
-                <a href="https://drive.google.com/file/d/13KszckUigGi-I_hdz7Q8v-oJk-jDYFeq/view?usp=share_link" target="_blank">
+                <a href="https://drive.google.com/file/d/15R3-u3wqjIrpKqXQr-n1wuk8Ky3k_4HT/view?usp=share_link" target="_blank">
                 <button className="btn">Download CV</button>
                 </a>
                 <a href="https://github.com/pavithradeevi" target="_blank">

@@ -31,7 +31,7 @@ const Detail = () => {
           
         </p>
         <p>Biodata : 
-          <a href="https://docs.google.com/document/d/1FMoOUhwQQ2udjLUfyZMI3ikmD2KwAJwgQsV7vwuicdQ/edit?usp=sharing" target="_blank"><span style={{color: 'skyblue'}}> Resume</span> 
+          <a href="https://drive.google.com/file/d/15R3-u3wqjIrpKqXQr-n1wuk8Ky3k_4HT/view?usp=share_link" target="_blank"><span style={{color: 'skyblue'}}> Resume</span> 
           </a>
           
         </p>
