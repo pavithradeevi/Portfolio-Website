@@ -25,6 +25,9 @@ const Heroimg = () => {
                 <a href="https://github.com/pavithradeevi" target="_blank">
                 <button className="btn">GitHub</button>
                 </a>
+                <a href="https://www.linkedin.com/in/pavithra-v-148533263/" target="_blank">
+                <button className="btn">LinkedIn</button>
+                </a>
             </div>
 
         </div>

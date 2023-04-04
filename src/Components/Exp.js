@@ -14,7 +14,7 @@ const Exp = () => {
           
         />
         <ExperienceBox number="2+" title="Years Teaching & Career Counselling" style={{ backgroundColor: "#f64c08" }} />
-        <ExperienceBox number="6+" title="Months Freelancer for Application Developing" />
+        <ExperienceBox number="1+" title="Years Freelancer for Application Engineer" />
       </div>
     </div>
   )

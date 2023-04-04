@@ -1,7 +1,7 @@
 import "./Footer.css";
 
 import React from 'react';
-import {FaHome,FaPhone,FaMailBulk,FaGithub} from "react-icons/fa"
+import {FaHome,FaPhone,FaMailBulk,FaGithub, FaLinkedin} from "react-icons/fa"
 
 
 const Footer = () => {
@@ -43,17 +43,25 @@ const Footer = () => {
                 </a></h4>
                 </div>
                 
+                <div><h4>
+                <FaLinkedin size={20} style={{color:"whitesmoke",marginRight:"2rem"}}/>
+                <a href="https://www.linkedin.com/in/pavithra-v-148533263/" target="_blank">
+                Pavithra
+                </a></h4>
+                </div>
 
             </div>
             <div className="right">
                 <h4>About</h4>
-                <p>Passionate Application Engineer,Skilled in Javascript,HTML & CSS,Python and ReactJs.</p>
-                {/* <div className="social">
-                <FaFacebook size={30} style={{color:"whitesmoke",marginRight:"1rem"}}/>
-                <FaTwitter size={30} style={{color:"whitesmoke",marginRight:"1rem"}}/>
-                <FaLinkedin size={30} style={{color:"whitesmoke",marginRight:"1rem"}}/>
+                <p>I am looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the organization's growth and to enhance my knowledge about new and emerging trends in the IT sector.</p>
+                <div className="social">
+                {/* <FaFacebook size={30} style={{color:"whitesmoke",marginRight:"1rem"}}/>
+                <FaTwitter size={30} style={{color:"whitesmoke",marginRight:"1rem"}}/> */}
+                {/* <FaLinkedin size={30} style={{color:"whitesmoke",marginRight:"1rem"}} /> */}
+                
+                
 
-                </div> */}
+                </div>
 
             </div>
 

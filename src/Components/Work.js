@@ -7,8 +7,18 @@ const Work = () => {
   return (
     <div className="work-container">
         <h1 className="project-heading">Projects</h1>
-        <h4 className="user-details">username:test@gmail.com</h4>
-        <h4 className="user-details">password:1234567890</h4>
+        <div className="user-details">
+
+        <h4 className="user-details">User Creditionals:</h4>
+        <p>username:test@gmail.com</p>
+        <p>password:1234567890</p>
+        </div><br/><br/>
+        <div className="user-details">
+
+        <h4 className="user-details">Admin Creditionals:</h4>
+        <p>username:admin@gmail.com</p>
+        <p>password:admin12345</p>
+        </div><br/><br/>
         <div className="project-container">
             {Workdata.map((val,index)=>{
                 return(
@@ -19,6 +29,7 @@ const Work = () => {
                     text={val.text}
                     view={val.view}
                     source={val.source}
+                    backend={val.backend}
                     software={val.software}
                     />
                 )

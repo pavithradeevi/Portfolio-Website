@@ -25,7 +25,17 @@ const Workcard = (props) => {
                           
                         >
                         
-                          Source
+                          Frontend
+                        </a>
+                        <a
+                          href={props.backend}
+                          target="_blank"
+                          rel="noreferrer"
+                          className="btn"
+                          
+                        >
+                        
+                          Backend
                         </a>
                         
                         <a

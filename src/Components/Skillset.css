@@ -4,25 +4,39 @@
     display:flex;
     align-items: center;
     justify-content: center;
-    margin: 200px 0;
+    margin: 100px 0;
+}
+.skillContainer_head{
+  justify-content: center;
+  margin: 150px 0;
+}
+
+.skillContainer_head{
+  color: whitesmoke;
+  text-align: center;
 }
 
 .skillContainer_text{
     color:whitesmoke;
-    flex:0.6;
-    text-align: left;
+    flex:0.4;
+    text-align:left;
     max-width: 500px;
     margin-bottom: 20px;
 }
-
+.logo{
+  max-width: 50px;
+  
+}
 .skillContainer_text>h2{
     font-size: 30px;
 }
 
 .skillContainer_image{
     flex:0.4;
-    text-align: center;
+    text-align: left;
     margin-right: 100px;
+    margin-bottom: 20px;
+    max-width: 500px;
 }
 .skillContainer_image>img{
     width:600px;

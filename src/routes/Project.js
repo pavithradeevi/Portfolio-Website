@@ -14,7 +14,7 @@ const Project = () => {
     <div>
       <Navbar/>
       <Heroimg2 heading="PROJECTS" 
-      text="Some of my personal Projects"/>
+      text="Some of My Personal Full Stack & Python Projects"/>
       <Work/>
       
       <Footer/>

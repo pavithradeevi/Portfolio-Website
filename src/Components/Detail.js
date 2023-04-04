@@ -21,7 +21,12 @@ const Detail = () => {
           Email : <span>pavithradeevi@gmail.com</span>
         </p>
         <p>Github : 
-          <a href="https://github.com/pavithradeevi" target="_blank"><span style={{color: 'skyblue'}}> pavithradeevi</span> 
+          <a href="https://github.com/pavithradeevi" target="_blank"><span style={{color: 'skyblue'}}> Pavithra Kamalakkannan</span> 
+          </a>
+          
+        </p>
+        <p>LinkedIn : 
+          <a href="https://www.linkedin.com/in/pavithra-v-148533263/" target="_blank"><span style={{color: 'skyblue'}}> Pavithra</span> 
           </a>
           
         </p>
@@ -32,6 +37,23 @@ const Detail = () => {
         </p>
         
       </div>
+      {/* <section className='talk' id="Contact"  >
+      
+        <div class="container" >
+          <h1>Let's Talk</h1>
+          <br/>
+          <p>Feel Free to reach Me</p>
+          <form target="_blank" action="https://formsubmit.co/el/vusoju" method="POST" className='inputs' >
+            <input type="text" name="Name" placeholder="Name " required />
+            <input type="email" name="Email" placeholder="Email" required />
+            <input type="text" name="Subject" placeholder="Subject" required />
+            <textarea name="Message"  placeholder="Message" required></textarea>
+            <input type="submit" value="Submit" class="btn btn-primary "  />
+          </form>
+          
+        </div>
+      
+    </section> */}
     </div>
   )
 }
