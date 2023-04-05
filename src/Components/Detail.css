@@ -3,12 +3,12 @@
     flex-direction: column;
     color: white;
     justify-content: left;
-    margin: 300px 70px 300px;
-    align-items: center;
+    /* margin: 300px 70px 300px; */
+    align-items: left;
   }
   
   .contact__container {
-    border: 1px solid whitesmoke;
+    /* border: 1px solid whitesmoke; */
     position: relative;
     left:30%;
     width: 500px;
