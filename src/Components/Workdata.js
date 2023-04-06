@@ -40,22 +40,22 @@ const ProjectcardData=[
         imgsrc:"https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2020-07/loaf.jpg",
         title:"Ecommerce Website",
         software:"Reactjs,Nodejs and MongoDB",
-        text:"Its includes clothing,such as kurtas,sleepwear as well as accessories, such as jewelry selling and easily make payments.",
+        text:"Its includes womens clothing, such as kurtas, sleepwear as well as accessories, such as jewelry selling and easily make payments.",
         view:"https://ecommercewebsite18.netlify.app/",
         source:"https://github.com/pavithradeevi/Clothing-Website---Frontend",
         backend:"https://github.com/pavithradeevi/Clothing-Website---backend"
         
     },
     
-    {
-        imgsrc:"https://images04.nicepage.com/feature/461183/website-blog.jpg",
-        title:"Blog",
-        software:"ReactJS,NodeJS,MongoDB",
-        text:"Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page.",
-        view:"https://dazzling-dasik-a8211d.netlify.app/",
-        source:"https://github.com/pavithradeevi/Blog---Frontend",
-        backend:"https://github.com/pavithradeevi/Blog---Backend"
-    },
+    // {
+    //     imgsrc:"https://images04.nicepage.com/feature/461183/website-blog.jpg",
+    //     title:"Blog",
+    //     software:"ReactJS,NodeJS,MongoDB",
+    //     text:"Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page.",
+    //     view:"https://dazzling-dasik-a8211d.netlify.app/",
+    //     source:"https://github.com/pavithradeevi/Blog---Frontend",
+    //     backend:"https://github.com/pavithradeevi/Blog---Backend"
+    // },
     
    
     {
@@ -71,8 +71,8 @@ const ProjectcardData=[
     {
         imgsrc:python,
         title:"Face Recognition System - Backend",
-        software:"Python,Machine Learning and SQL",
-        text:"Facial recognition can identify human faces in images or videos, determine if the face in two images belongs to the same person, or search for a face among a large collection of existing images.",
+        software:"Python,ML and SQL",
+        text:"Facial recognition can identify human faces in images or videos, search for a face among a large collection of existing images.",
         view:"https://dazzling-dasik-a8211d.netlify.app/",
         source:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL",
         backend:"https://github.com/pavithradeevi/Face-Recognition-attendance-System-using-MYSQL"
